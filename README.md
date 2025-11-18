@@ -11,6 +11,7 @@ Hair on the skin can:
 <li>confuse machine learning models
 <li>make the image look noisy or unclear
 <li>affect accuracy during training
+
 By removing hair, the images become cleaner, easier to analyze, and better for training AI models.
 
 # How DullRazor actually works
