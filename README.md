@@ -32,3 +32,6 @@ DullRazor follows a few simple steps:
 5. Use inpainting to fill the hair areas
 → fills the hair pixels using nearby skin pixels
 → makes the image look natural.
+
+<img width="1052" height="288" alt="image" src="https://github.com/user-attachments/assets/b3e7337d-8013-44df-a19e-7cf480ff0caa" />
+
