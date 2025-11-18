@@ -7,10 +7,10 @@ The script processes an entire dataset with class subfolders and outputs hair-re
 
 Why remove hair?
 Hair on the skin can:
-<li>hide the true shape of the lesion
-<li>confuse machine learning models
-<li>make the image look noisy or unclear
-<li>affect accuracy during training
+- hide the true shape of the lesion
+- confuse machine learning models
+- make the image look noisy or unclear
+- affect accuracy during training
 
 By removing hair, the images become cleaner, easier to analyze, and better for training AI models.
 
